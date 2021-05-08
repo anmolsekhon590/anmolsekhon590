@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anmol Sekhon (He/Him)
-- 👀 I’m interested in making apllications that empower people
+- 👀 I’m interested in making applications that empower people
 - 🌱 I’m currently learning CUDA Programming
 - 📫 Best way to reach me is via LinkedIn (https://www.linkedin.com/in/anmol-sekhon/)
 
