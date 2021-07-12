@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anmol Sekhon (He/Him)
+- 👋 Hi, my name is Anmol Sekhon (He/Him)
 - 👀 I’m interested in making applications that empower people
 - 📫 Best way to reach me is via LinkedIn (https://www.linkedin.com/in/anmol-sekhon/)
 
