@@ -1,8 +1,1 @@
-- 👋 Hi, my name is Anmol Sekhon (He/Him)
-- 👀 I’m interested in making applications that empower people
-- 📫 Best way to reach me is via LinkedIn (https://www.linkedin.com/in/anmol-sekhon/)
-
-<!---
-anmolsekhon590/anmolsekhon590 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolsekhon590)](https://github.com/anuraghazra/github-readme-stats)
